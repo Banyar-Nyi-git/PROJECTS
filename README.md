@@ -1,7 +1,10 @@
 Projects
 
+
 Description
+
 This repository contains three distinct applications, each serving a different purpose and technology stack.
+
 
 Features
 
