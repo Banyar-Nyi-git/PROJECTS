@@ -11,6 +11,8 @@ Delete Tasks: Users can remove tasks from their to-do list.
 
 Project Structure
 
+________________________________________________________________________________________
+
 flask_todo_app/
 │
 ├── venv/               # Virtual environment directory
@@ -19,7 +21,9 @@ flask_todo_app/
 │   └── style.css       # Your CSS file here
 └── templates/          # Directory for HTML templates
     └── index.html      # The front-end HTML file
-    
+
+________________________________________________________________________________________
+
 Requirements
 
 Python 3.x
