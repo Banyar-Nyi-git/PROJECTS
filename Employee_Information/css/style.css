@@ -1,0 +1,71 @@
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 3px;
+        }
+
+        .container, .container1 {
+            margin-bottom: 20px;
+            margin-left: 1%;
+        }
+
+        #my_table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 18px;
+            text-align: left;
+        }
+
+        #my_table th, #my_table td {
+            width: 150px;
+            padding: 12px;
+            border: 1px solid #ddd;
+        }
+
+        #my_table th {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+        }
+
+        #my_table td input {
+            width: 150px;
+            padding: 8px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button, input[type="submit"] {
+            font-size: 20px;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        input[type="submit"] {
+            background-color: #2196F3;
+            color: white;
+            font-size: 24px;
+        }
+
+        button:hover, input[type="submit"]:hover {
+            opacity: 0.9;
+        }
+
+        .container1 table {
+            margin-top: 10px;
+            width: 100%;
+        }
+
+        .container1 td {
+            padding: 5px 0;
+        }
