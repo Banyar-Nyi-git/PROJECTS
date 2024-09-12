@@ -75,6 +75,8 @@ Database Setup:
 Ensure MySQL is running and create a database with the required schema.
 Populate the employees table with appropriate fields.
 
+Contact For any questions or support, please contact [Banyar Nyi] at banyarnyi1605@gmail.com].
+
 Running the Application:
 
 Host the application using a local server environment like XAMPP.
