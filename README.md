@@ -57,6 +57,8 @@ Access the Application
 Open your web browser and go to http://localhost:8080 to see the Employee Management System.
 
 Directory Structure
+________________________________________________________________________________________
+
 src
  └── main
      ├── java
@@ -72,6 +74,8 @@ src
          ├── application.properties
          └── templates
              └── index.html
+________________________________________________________________________________________
+
 Known Issues
 Port Conflict: If the application fails to start due to port conflicts, ensure no other applications are using port 8080 or change the port in application.properties.
 Contributing
