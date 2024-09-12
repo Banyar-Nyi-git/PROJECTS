@@ -21,16 +21,19 @@ Steps to Run the Project
 Clone the Repository
 
 COMMAND
+
 git clone <repository-url>
 Navigate to the Project Directory
 
 COMMAND
+
 cd EmployeeManagementSystem
 Update application.properties
 
 Edit src/main/resources/application.properties to match your MySQL setup:
 
 PROPERTIES
+
 spring.datasource.url=jdbc:mysql://localhost:3306/employee_db
 spring.datasource.username=root
 spring.datasource.password=password
@@ -40,12 +43,14 @@ Build the Project
 Use Maven to build the project:
 
 COMMAND
+
 mvn clean install
 Run the Application
 
 Start the Spring Boot application:
 
 COMMAND
+
 mvn spring-boot:run
 Access the Application
 
