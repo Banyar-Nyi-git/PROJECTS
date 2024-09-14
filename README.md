@@ -1,19 +1,27 @@
 Employee Management System
+
 Overview
+
 This project is an Employee Management System built with Java Spring Boot and Thymeleaf. It allows you to manage employee data, including adding new employees, viewing a list of employees, and updating employee information.
 
 Features
+
 View Employees: Display a list of employees.
 Add Employee: Form to add new employee details.
 Update Employee: Functionality to update existing employee details.
+
 Technologies Used
+
 Java: Programming language used for the backend.
 Spring Boot: Framework for building the backend.
 Thymeleaf: Template engine for rendering HTML views.
 MySQL: Database for storing employee data.
 Bootstrap: CSS framework for styling the web pages.
+
 Setup Instructions
+
 Prerequisites
+
 Java Development Kit (JDK) 11 or later
 Maven: For dependency management and building the project
 MySQL Database: Ensure MySQL server is running and you have created a database
